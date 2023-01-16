@@ -1,0 +1,1599 @@
+[
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 2007,
+            "pages": 683,
+            "isbn13": "978-0-310-99923-2",
+            "rating": 3.9,
+            "price": 888.5,
+            "author": [
+                "Kelly Lowery",
+                "Charles Guerra DDS"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 2,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1915,
+            "pages": 773,
+            "isbn13": "978-1-243-67882-9",
+            "rating": 1.4,
+            "price": 1625.9,
+            "author": [
+                "Lawrence Miller"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 3,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 1903,
+            "pages": 608,
+            "isbn13": "978-1-5002-4930-4",
+            "rating": 1.6,
+            "price": 1726.1,
+            "author": [
+                "Keith Peters",
+                "Alex Brooks",
+                "Allison Gallegos"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 4,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1868,
+            "pages": 748,
+            "isbn13": "978-1-4975-2690-7",
+            "rating": 1.6,
+            "price": 1459.2,
+            "author": [
+                "Andre Morris",
+                "Rebecca Miller",
+                "Joseph Howard"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 5,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1975,
+            "pages": 794,
+            "isbn13": "978-1-106-57233-2",
+            "rating": 3.6,
+            "price": 1420.7,
+            "author": [
+                "Linda Thomas",
+                "Sandy Barnes"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 6,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 1858,
+            "pages": 893,
+            "isbn13": "978-1-225-61726-6",
+            "rating": 3.8,
+            "price": 1461.5,
+            "author": [
+                "Stephanie Brewer",
+                "Aaron Ballard"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 7,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1983,
+            "pages": 640,
+            "isbn13": "978-1-4380-4501-6",
+            "rating": 2.6,
+            "price": 1447.2,
+            "author": [
+                "Evelyn Woods",
+                "Craig Frazier",
+                "Ryan Boone"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 8,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1956,
+            "pages": 945,
+            "isbn13": "978-0-17-364369-3",
+            "rating": 0.1,
+            "price": 544.6,
+            "author": [
+                "Ross Price MD",
+                "Jonathan Fields",
+                "Robert Hernandez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 9,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1911,
+            "pages": 494,
+            "isbn13": "978-1-4144-4217-4",
+            "rating": 4.0,
+            "price": 1447.7,
+            "author": [
+                "Christopher Parker",
+                "Elizabeth Crawford"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 10,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 1914,
+            "pages": 1000,
+            "isbn13": "978-0-561-76802-1",
+            "rating": 2.8,
+            "price": 610.6,
+            "author": [
+                "Justin Harrell",
+                "Steven Webster",
+                "Peter Mccoy"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 11,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1985,
+            "pages": 548,
+            "isbn13": "978-0-14-411570-9",
+            "rating": 2.7,
+            "price": 849.1,
+            "author": [
+                "Gregory Sanchez",
+                "Ryan Wood",
+                "Kimberly Petersen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 12,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 2013,
+            "pages": 412,
+            "isbn13": "978-1-103-53064-9",
+            "rating": 3.2,
+            "price": 591.8,
+            "author": [
+                "Frank Morgan"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 13,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1906,
+            "pages": 781,
+            "isbn13": "978-1-4059-6239-1",
+            "rating": 3.4,
+            "price": 1642.6,
+            "author": [
+                "Mrs. Jamie Tyler",
+                "Patricia Murphy"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 14,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1971,
+            "pages": 738,
+            "isbn13": "978-0-9741181-6-1",
+            "rating": 0.6,
+            "price": 1725.3,
+            "author": [
+                "Bob Walters",
+                "Mark Jackson",
+                "Dan Hess"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 15,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 1971,
+            "pages": 906,
+            "isbn13": "978-0-9866920-1-7",
+            "rating": 1.0,
+            "price": 1137.2,
+            "author": [
+                "Mrs. Vanessa Rodriguez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 16,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1855,
+            "pages": 866,
+            "isbn13": "978-1-4854-0227-5",
+            "rating": 4.3,
+            "price": 1638.9,
+            "author": [
+                "Daniel Ray",
+                "Allison Everett"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 17,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1920,
+            "pages": 756,
+            "isbn13": "978-1-5396-6570-0",
+            "rating": 2.7,
+            "price": 1482.6,
+            "author": [
+                "Jeffrey Kidd",
+                "Emily Fernandez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 18,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 1862,
+            "pages": 321,
+            "isbn13": "978-0-926148-64-2",
+            "rating": 3.4,
+            "price": 1708.8,
+            "author": [
+                "Cody Dean",
+                "Ashley Moore",
+                "Brian Leonard"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 19,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1886,
+            "pages": 374,
+            "isbn13": "978-0-9965450-0-6",
+            "rating": 2.1,
+            "price": 1020.1,
+            "author": [
+                "Emma Hodge"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 20,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1933,
+            "pages": 896,
+            "isbn13": "978-0-250-37290-4",
+            "rating": 3.6,
+            "price": 1760.5,
+            "author": [
+                "Jeffrey Graves",
+                "Justin Sanders",
+                "Robyn Gonzales"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 21,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1921,
+            "pages": 559,
+            "isbn13": "978-1-239-41145-4",
+            "rating": 2.4,
+            "price": 605.7,
+            "author": [
+                "Mary Carson",
+                "Aaron Lopez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 22,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 1947,
+            "pages": 684,
+            "isbn13": "978-0-679-58395-0",
+            "rating": 1.6,
+            "price": 1854.4,
+            "author": [
+                "Dominique Harris",
+                "Aaron Flores",
+                "Eduardo Scott"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 23,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1989,
+            "pages": 783,
+            "isbn13": "978-0-9658472-5-4",
+            "rating": 2.3,
+            "price": 1130.2,
+            "author": [
+                "Kimberly Tapia"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 24,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1860,
+            "pages": 629,
+            "isbn13": "978-0-8247-3501-2",
+            "rating": 3.2,
+            "price": 1895.4,
+            "author": [
+                "Ian Butler",
+                "Joshua Newman II",
+                "Kathy Roberson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 25,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1867,
+            "pages": 867,
+            "isbn13": "978-0-588-77661-0",
+            "rating": 1.7,
+            "price": 851.1,
+            "author": [
+                "Tracy Hernandez",
+                "Sherri Hahn"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 26,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1967,
+            "pages": 413,
+            "isbn13": "978-0-8177-8743-1",
+            "rating": 3.9,
+            "price": 1385.4,
+            "author": [
+                "Cassandra Knight",
+                "Cynthia Conrad",
+                "Elizabeth Jackson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 27,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1963,
+            "pages": 841,
+            "isbn13": "978-1-5419-1859-7",
+            "rating": 2.5,
+            "price": 1107.4,
+            "author": [
+                "Vincent Fox"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 28,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 2014,
+            "pages": 537,
+            "isbn13": "978-1-5115-3880-0",
+            "rating": 0.8,
+            "price": 1201.2,
+            "author": [
+                "Daniel Anderson",
+                "William Hays"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 29,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1959,
+            "pages": 484,
+            "isbn13": "978-0-88719-152-7",
+            "rating": 1.6,
+            "price": 836.4,
+            "author": [
+                "Randall Nichols Jr.",
+                "Aaron Wright"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 30,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1967,
+            "pages": 469,
+            "isbn13": "978-1-5320-7726-5",
+            "rating": 4.2,
+            "price": 1218.0,
+            "author": [
+                "Ashley West",
+                "Robert Reynolds",
+                "Jane Fritz"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 31,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1979,
+            "pages": 725,
+            "isbn13": "978-0-504-91631-1",
+            "rating": 3.6,
+            "price": 1063.2,
+            "author": [
+                "John Matthews"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 32,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1901,
+            "pages": 419,
+            "isbn13": "978-1-66753-877-8",
+            "rating": 1.7,
+            "price": 1080.9,
+            "author": [
+                "Sarah Moore",
+                "Taylor King",
+                "Daniel Adams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 33,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1945,
+            "pages": 315,
+            "isbn13": "978-1-4359-1053-9",
+            "rating": 3.4,
+            "price": 1749.4,
+            "author": [
+                "Patrick Lewis",
+                "Jacob Diaz",
+                "Gina Hammond"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 34,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1850,
+            "pages": 304,
+            "isbn13": "978-0-299-55877-2",
+            "rating": 1.4,
+            "price": 1857.3,
+            "author": [
+                "Christopher Hall"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 35,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1902,
+            "pages": 458,
+            "isbn13": "978-0-19-488966-7",
+            "rating": 4.7,
+            "price": 1062.5,
+            "author": [
+                "Sarah Wilson",
+                "Jackie Sullivan"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 36,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1976,
+            "pages": 863,
+            "isbn13": "978-0-8190-8608-2",
+            "rating": 1.2,
+            "price": 653.7,
+            "author": [
+                "Bryan Mueller"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 37,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1930,
+            "pages": 662,
+            "isbn13": "978-0-19-017060-8",
+            "rating": 5.0,
+            "price": 799.4,
+            "author": [
+                "Anthony Torres"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 38,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1953,
+            "pages": 954,
+            "isbn13": "978-1-113-69427-0",
+            "rating": 1.7,
+            "price": 1968.3,
+            "author": [
+                "Jeff Smith",
+                "Shane Turner"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 39,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 1994,
+            "pages": 773,
+            "isbn13": "978-0-403-48731-8",
+            "rating": 0.9,
+            "price": 1874.3,
+            "author": [
+                "Francisco Cabrera",
+                "Christopher Clark",
+                "Kelsey Johns"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 40,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1905,
+            "pages": 705,
+            "isbn13": "978-1-4828-3530-4",
+            "rating": 1.8,
+            "price": 1193.0,
+            "author": [
+                "Timothy Vasquez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 41,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1918,
+            "pages": 850,
+            "isbn13": "978-1-4988-4361-4",
+            "rating": 2.6,
+            "price": 977.8,
+            "author": [
+                "James West",
+                "Jennifer Sanchez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 42,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 2013,
+            "pages": 773,
+            "isbn13": "978-0-567-39811-6",
+            "rating": 2.2,
+            "price": 1471.2,
+            "author": [
+                "Renee Massey",
+                "Donna Kaiser"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 43,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1889,
+            "pages": 524,
+            "isbn13": "978-0-276-15665-6",
+            "rating": 0.9,
+            "price": 693.6,
+            "author": [
+                "Philip Rose",
+                "Lucas Brown",
+                "Brittany Clark"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 44,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1855,
+            "pages": 796,
+            "isbn13": "978-0-88717-268-7",
+            "rating": 1.0,
+            "price": 1008.5,
+            "author": [
+                "Elizabeth Diaz"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 45,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 1931,
+            "pages": 967,
+            "isbn13": "978-1-886554-65-8",
+            "rating": 2.8,
+            "price": 1701.5,
+            "author": [
+                "Natasha Walker"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 46,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1868,
+            "pages": 424,
+            "isbn13": "978-0-948056-84-0",
+            "rating": 2.6,
+            "price": 1344.0,
+            "author": [
+                "Kevin Grimes"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 47,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1889,
+            "pages": 806,
+            "isbn13": "978-1-82677-052-0",
+            "rating": 3.6,
+            "price": 1967.6,
+            "author": [
+                "Cynthia Robinson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 48,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1985,
+            "pages": 884,
+            "isbn13": "978-1-77082-971-8",
+            "rating": 1.0,
+            "price": 1029.9,
+            "author": [
+                "Anthony Williams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 49,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1966,
+            "pages": 448,
+            "isbn13": "978-1-253-28160-6",
+            "rating": 1.2,
+            "price": 1439.7,
+            "author": [
+                "Tina Kline",
+                "Rose Parker",
+                "Jennifer Morgan"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 50,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1917,
+            "pages": 534,
+            "isbn13": "978-1-04-256900-7",
+            "rating": 0.4,
+            "price": 466.4,
+            "author": [
+                "Charles Garcia"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 51,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1990,
+            "pages": 484,
+            "isbn13": "978-0-535-43629-1",
+            "rating": 3.2,
+            "price": 533.0,
+            "author": [
+                "Tina Hill",
+                "Steven Moore"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 52,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1857,
+            "pages": 491,
+            "isbn13": "978-0-14-657184-8",
+            "rating": 2.5,
+            "price": 572.2,
+            "author": [
+                "Kristen Simmons"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 53,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1971,
+            "pages": 624,
+            "isbn13": "978-0-428-23270-2",
+            "rating": 1.7,
+            "price": 1535.9,
+            "author": [
+                "Ronald Collins",
+                "Kari Cooke",
+                "Elizabeth Cortez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 54,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 2001,
+            "pages": 867,
+            "isbn13": "978-0-384-75132-3",
+            "rating": 4.5,
+            "price": 1191.1,
+            "author": [
+                "Robert Russell",
+                "Jennifer Barber",
+                "Jason Nguyen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 55,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 1899,
+            "pages": 622,
+            "isbn13": "978-0-9870796-3-3",
+            "rating": 1.1,
+            "price": 1454.3,
+            "author": [
+                "Tara Decker",
+                "Mrs. Miranda Morris",
+                "Emily Myers"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 56,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1984,
+            "pages": 681,
+            "isbn13": "978-1-349-45613-0",
+            "rating": 4.9,
+            "price": 1807.9,
+            "author": [
+                "Nicole Banks"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 57,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1913,
+            "pages": 342,
+            "isbn13": "978-0-16-186125-2",
+            "rating": 1.3,
+            "price": 1993.0,
+            "author": [
+                "Elizabeth Carlson",
+                "David Williams",
+                "Kyle Patel"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 58,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1940,
+            "pages": 353,
+            "isbn13": "978-1-69264-229-7",
+            "rating": 2.4,
+            "price": 401.5,
+            "author": [
+                "Lisa Noble",
+                "Joshua Simmons"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 59,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1898,
+            "pages": 621,
+            "isbn13": "978-1-4132-1688-2",
+            "rating": 1.6,
+            "price": 599.7,
+            "author": [
+                "Shelley May"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 60,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1879,
+            "pages": 410,
+            "isbn13": "978-1-246-19046-5",
+            "rating": 2.4,
+            "price": 963.0,
+            "author": [
+                "James Mitchell",
+                "Jerome Petersen",
+                "Jacqueline Gilbert"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 61,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 2019,
+            "pages": 802,
+            "isbn13": "978-0-10-984799-7",
+            "rating": 0.9,
+            "price": 467.0,
+            "author": [
+                "Stephen Navarro",
+                "Charles Ochoa"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 62,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1852,
+            "pages": 418,
+            "isbn13": "978-1-05-891571-3",
+            "rating": 3.4,
+            "price": 1462.1,
+            "author": [
+                "Andrea Maldonado"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 63,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 2010,
+            "pages": 531,
+            "isbn13": "978-1-58341-093-6",
+            "rating": 1.3,
+            "price": 1828.1,
+            "author": [
+                "Amy Roberts"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 64,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1923,
+            "pages": 354,
+            "isbn13": "978-1-77689-672-1",
+            "rating": 2.3,
+            "price": 1363.5,
+            "author": [
+                "Jennifer Farley",
+                "Sean Rhodes",
+                "Steven Anderson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 65,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1883,
+            "pages": 682,
+            "isbn13": "978-0-210-72764-5",
+            "rating": 1.5,
+            "price": 850.2,
+            "author": [
+                "Andrew Wilson",
+                "Patricia Buckley"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 66,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1890,
+            "pages": 502,
+            "isbn13": "978-1-61147-327-8",
+            "rating": 1.1,
+            "price": 1720.6,
+            "author": [
+                "David Gutierrez",
+                "Tammy Perkins",
+                "Jamie Harrison"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 67,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1927,
+            "pages": 492,
+            "isbn13": "978-0-546-57002-1",
+            "rating": 0.5,
+            "price": 955.2,
+            "author": [
+                "Susan Cole"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 68,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 2015,
+            "pages": 948,
+            "isbn13": "978-1-290-44693-8",
+            "rating": 0.5,
+            "price": 834.0,
+            "author": [
+                "Levi Beard",
+                "William Watson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 69,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1910,
+            "pages": 367,
+            "isbn13": "978-0-400-69126-8",
+            "rating": 4.8,
+            "price": 1244.0,
+            "author": [
+                "Sherri West",
+                "David Brown"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 70,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1966,
+            "pages": 988,
+            "isbn13": "978-0-19-924561-1",
+            "rating": 2.3,
+            "price": 1577.8,
+            "author": [
+                "Brian Mcdaniel DDS",
+                "Jason Melton",
+                "Brandy Rose"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 71,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 2018,
+            "pages": 590,
+            "isbn13": "978-1-66901-949-7",
+            "rating": 1.5,
+            "price": 1260.4,
+            "author": [
+                "Stephanie Smith",
+                "David Wallace",
+                "Megan Bennett"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 72,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1874,
+            "pages": 413,
+            "isbn13": "978-1-107-89902-5",
+            "rating": 0.3,
+            "price": 1675.4,
+            "author": [
+                "Rachel Bonilla"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 73,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1896,
+            "pages": 337,
+            "isbn13": "978-0-934768-44-3",
+            "rating": 2.4,
+            "price": 890.5,
+            "author": [
+                "Kevin Thompson",
+                "Sabrina Mcdowell"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 74,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1869,
+            "pages": 571,
+            "isbn13": "978-1-67410-469-0",
+            "rating": 2.0,
+            "price": 1774.8,
+            "author": [
+                "Jamie Carr",
+                "Christopher Mcintosh"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 75,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1850,
+            "pages": 414,
+            "isbn13": "978-0-328-85751-7",
+            "rating": 0.7,
+            "price": 492.2,
+            "author": [
+                "Elizabeth Trevino",
+                "Lori Gardner",
+                "Tanya Wilson MD"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 76,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1883,
+            "pages": 302,
+            "isbn13": "978-1-05-247772-9",
+            "rating": 4.6,
+            "price": 1120.0,
+            "author": [
+                "Gregory Kim",
+                "Brandy Camacho"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 77,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1853,
+            "pages": 781,
+            "isbn13": "978-1-307-82703-3",
+            "rating": 3.8,
+            "price": 1387.2,
+            "author": [
+                "Sandra Hammond",
+                "Alex Rhodes",
+                "Christopher Lutz"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 78,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1899,
+            "pages": 615,
+            "isbn13": "978-1-82898-036-1",
+            "rating": 1.2,
+            "price": 965.9,
+            "author": [
+                "Wesley Gibson",
+                "Samuel Wilson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 79,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1930,
+            "pages": 722,
+            "isbn13": "978-1-68044-261-8",
+            "rating": 1.9,
+            "price": 974.4,
+            "author": [
+                "Andrea Alexander"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 80,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1892,
+            "pages": 566,
+            "isbn13": "978-0-371-06470-2",
+            "rating": 4.3,
+            "price": 1944.3,
+            "author": [
+                "Russell English",
+                "Steven Gaines",
+                "James Cox"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 81,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1991,
+            "pages": 537,
+            "isbn13": "978-1-55382-474-9",
+            "rating": 4.5,
+            "price": 881.4,
+            "author": [
+                "Carolyn Jordan"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 82,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1897,
+            "pages": 860,
+            "isbn13": "978-1-358-26414-6",
+            "rating": 3.7,
+            "price": 1871.9,
+            "author": [
+                "Jeffrey Huynh"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 83,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1973,
+            "pages": 637,
+            "isbn13": "978-1-65220-545-6",
+            "rating": 4.3,
+            "price": 1272.3,
+            "author": [
+                "Deborah Cox",
+                "Andrew Stewart",
+                "Jacob Wood"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 84,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 2001,
+            "pages": 964,
+            "isbn13": "978-1-382-90898-6",
+            "rating": 1.4,
+            "price": 1879.0,
+            "author": [
+                "Stephen Clark"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 85,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 1901,
+            "pages": 715,
+            "isbn13": "978-1-216-80382-1",
+            "rating": 4.4,
+            "price": 767.7,
+            "author": [
+                "Crystal Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 86,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 1892,
+            "pages": 408,
+            "isbn13": "978-1-04-819774-7",
+            "rating": 1.8,
+            "price": 1256.1,
+            "author": [
+                "Robert Santiago"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 87,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1890,
+            "pages": 410,
+            "isbn13": "978-1-901677-80-5",
+            "rating": 3.5,
+            "price": 487.5,
+            "author": [
+                "Brenda Clark"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 88,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1969,
+            "pages": 835,
+            "isbn13": "978-0-18-817595-0",
+            "rating": 1.4,
+            "price": 603.1,
+            "author": [
+                "Kayla West"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 89,
+        "fields": {
+            "title": "Война и мир.",
+            "year": 1912,
+            "pages": 954,
+            "isbn13": "978-0-409-68458-2",
+            "rating": 0.3,
+            "price": 604.3,
+            "author": [
+                "Jamie Robinson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 90,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1873,
+            "pages": 676,
+            "isbn13": "978-0-15-592673-8",
+            "rating": 4.5,
+            "price": 1926.1,
+            "author": [
+                "Jennifer Savage",
+                "James Hall"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 91,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1943,
+            "pages": 787,
+            "isbn13": "978-1-81129-044-6",
+            "rating": 0.5,
+            "price": 635.5,
+            "author": [
+                "Monique Gomez",
+                "Cynthia Chavez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 92,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 1973,
+            "pages": 536,
+            "isbn13": "978-0-8432-5766-3",
+            "rating": 3.7,
+            "price": 1118.6,
+            "author": [
+                "Sean Green"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 93,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 1861,
+            "pages": 512,
+            "isbn13": "978-1-388-62968-7",
+            "rating": 3.8,
+            "price": 1443.7,
+            "author": [
+                "Jerry Sanchez",
+                "Angela Brown"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 94,
+        "fields": {
+            "title": "Анна Каренина.",
+            "year": 1905,
+            "pages": 496,
+            "isbn13": "978-1-159-53227-7",
+            "rating": 1.4,
+            "price": 1228.9,
+            "author": [
+                "Robert Moore",
+                "Patrick Hamilton"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 95,
+        "fields": {
+            "title": "Тайна голубого поезда.",
+            "year": 1948,
+            "pages": 584,
+            "isbn13": "978-1-01-448211-2",
+            "rating": 2.8,
+            "price": 1520.3,
+            "author": [
+                "Miss Natasha Smith",
+                "Barbara Ramsey",
+                "Caroline Hamilton"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 96,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1907,
+            "pages": 337,
+            "isbn13": "978-1-07-485076-0",
+            "rating": 1.8,
+            "price": 782.9,
+            "author": [
+                "Stephanie Le"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 97,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1904,
+            "pages": 562,
+            "isbn13": "978-0-263-65106-5",
+            "rating": 1.1,
+            "price": 992.0,
+            "author": [
+                "Craig Cherry"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 98,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1870,
+            "pages": 333,
+            "isbn13": "978-1-4006-2043-2",
+            "rating": 0.5,
+            "price": 492.9,
+            "author": [
+                "Paul Miller",
+                "Dr. Justin Johnson DDS",
+                "Briana Anderson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 99,
+        "fields": {
+            "title": "Горе от ума.",
+            "year": 1896,
+            "pages": 872,
+            "isbn13": "978-0-14-323063-2",
+            "rating": 4.5,
+            "price": 1244.6,
+            "author": [
+                "Robert Cunningham"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 100,
+        "fields": {
+            "title": "Десять негретят.",
+            "year": 1868,
+            "pages": 486,
+            "isbn13": "978-0-06-849931-2",
+            "rating": 1.7,
+            "price": 1920.5,
+            "author": [
+                "Tina Hudson",
+                "James Scott",
+                "Angel Pham"
+            ]
+        }
+    }
+]
